@@ -1,0 +1,45 @@
+body {
+    margin: none;
+    padding: none;
+}
+
+.Privacy {
+    margin: 40px 40px;
+}
+
+.Privacy_Navbar {
+    display: flex;
+    margin: 20px 20px;
+    justify-content: center;
+    margin-left: -20rem;
+}
+
+.Privacy img {
+    height: 60px;
+    width: 60px;
+    margin-left: 20rem;
+}
+
+.Privacy img:hover {
+    transform: scale(1.09);
+}
+
+.Privacy .Privacy_name {
+    text-align: center;
+}
+
+.Privacy_name h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 50px;
+    color: blue;
+}
+
+.Privacy_paragraph {
+    text-align: center;
+    margin: 40px 60px;
+    background: rgb(235, 65, 65);
+    padding: 20px 40px;
+}
+
+

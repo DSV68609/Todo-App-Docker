@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Home {
+    margin: 40px 20px;
+}
+
+.Home_Navbar {
+    display: flex;
+    margin: 20px 20px;
+    justify-content: center;
+    margin-left: -20rem;
+}
+
+.Navbar_name h1 {
+   text-align: center;
+   margin-top: 2rem;
+   margin-bottom: -4rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: blue;
+   font-size: 40px;
+   font-weight: 40px;
+}
+
+.Home_Navbar img {
+    height: 60px;
+    width: 60px;
+    margin-left: 20rem;
+
+}
+
+.Home_Navbar img:hover {
+    transform: scale(1.09);
+}
+
+
+
